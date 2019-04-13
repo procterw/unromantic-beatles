@@ -1,0 +1,27 @@
+{
+  "name": "unromantic-beatles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/procterw/unromantic-beatles.git"
+  },
+  "keywords": [
+    "data",
+    "visualization",
+    "beatles"
+  ],
+  "author": "Will Leahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/procterw/unromantic-beatles/issues"
+  },
+  "homepage": "https://github.com/procterw/unromantic-beatles#readme",
+  "devDependencies": {
+    "d3": "^5.9.2"
+  }
+}
