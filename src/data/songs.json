@@ -1,0 +1,1546 @@
+[
+  {
+    "trackNumber": 1,
+    "songTitle": "I Saw Her Standing There",
+    "leadVocals": "Paul McCartney",
+    "trackLength": "2:55",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Misery",
+    "leadVocals": "John Lennon with McCartney",
+    "trackLength": "1:49",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Anna (Go to Him) (Arthur Alexander)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:55",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Chains (Gerry Goffin, Carole King)",
+    "leadVocals": "George Harrison",
+    "trackLength": "2:23",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Boys (Luther Dixon, Wes Farrell)",
+    "leadVocals": "Ringo Starr",
+    "trackLength": "2:24",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Ask Me Why",
+    "leadVocals": "Lennon",
+    "trackLength": "2:24",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Please Please Me",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "1:59",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Love Me Do",
+    "leadVocals": "McCartney with Lennon",
+    "trackLength": "2:21",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "P.S. I Love You",
+    "leadVocals": "McCartney",
+    "trackLength": "2:04",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Baby It's You (Mack David, Barney Williams, Burt Bacharach)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:40",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Do You Want to Know a Secret",
+    "leadVocals": "Harrison",
+    "trackLength": "1:56",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "A Taste of Honey (Bobby Scott, Ric Marlow)",
+    "leadVocals": "McCartney",
+    "trackLength": "2:03",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "There's a Place",
+    "leadVocals": "Lennon and McCartney",
+    "trackLength": "1:51",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Twist and Shout (Phil Medley, Bert Russell)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:32",
+    "album": "Please Pease Me",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "It Won't Be Long",
+    "leadVocals": "Lennon",
+    "trackLength": "2:13",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "All I've Got to Do",
+    "leadVocals": "Lennon",
+    "trackLength": "2:02",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "All My Loving",
+    "leadVocals": "McCartney with Harrison",
+    "trackLength": "2:07",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Don't Bother Me (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:28",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Little Child",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "1:46",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Till There Was You (Meredith Willson)",
+    "leadVocals": "McCartney",
+    "trackLength": "2:14",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Please Mr. Postman (Georgia Dobbins, William Garrett, Freddie Gorman,Brian Holland, Robert Bateman)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:34",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Roll Over Beethoven (Chuck Berry)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:45",
+    "album": "With the Beatles",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Hold Me Tight",
+    "leadVocals": "McCartney",
+    "trackLength": "2:32",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "You Really Got a Hold on Me (Smokey Robinson)",
+    "leadVocals": "Lennon and Harrison",
+    "trackLength": "3:01",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "I Wanna Be Your Man",
+    "leadVocals": "Starr",
+    "trackLength": "1:59",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Devil in Her Heart (Richard Drapkin)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:26",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Not a Second Time",
+    "leadVocals": "Lennon",
+    "trackLength": "2:07",
+    "album": "With the Beatles",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Money (That's What I Want) (Janie Bradford, Berry Gordy)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:49",
+    "album": "With the Beatles",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "A Hard Day's Night",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:34",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "I Should Have Known Better",
+    "leadVocals": "Lennon",
+    "trackLength": "2:43",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "If I Fell",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:19",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "I'm Happy Just to Dance with You",
+    "leadVocals": "Harrison",
+    "trackLength": "1:56",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "And I Love Her",
+    "leadVocals": "McCartney",
+    "trackLength": "2:30",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Tell Me Why",
+    "leadVocals": "Lennon",
+    "trackLength": "2:09",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Can't Buy Me Love",
+    "leadVocals": "McCartney",
+    "trackLength": "2:12",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Any Time at All",
+    "leadVocals": "Lennon",
+    "trackLength": "2:11",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "I'll Cry Instead",
+    "leadVocals": "Lennon",
+    "trackLength": "1:45",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Things We Said Today",
+    "leadVocals": "McCartney",
+    "trackLength": "2:35",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "When I Get Home",
+    "leadVocals": "Lennon",
+    "trackLength": "2:17",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "You Can't Do That",
+    "leadVocals": "Lennon",
+    "trackLength": "2:35",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "I'll Be Back",
+    "leadVocals": "Lennon and McCartney",
+    "trackLength": "2:24",
+    "album": "A Hard Day's Night",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "No Reply",
+    "leadVocals": "Lennon",
+    "trackLength": "2:15",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "I'm a Loser",
+    "leadVocals": "Lennon",
+    "trackLength": "2:30",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Baby's in Black",
+    "leadVocals": "Lennon and McCartney",
+    "trackLength": "2:04",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Rock and Roll Music (Chuck Berry)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:31",
+    "album": "Beatles for Sale",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "I'll Follow the Sun",
+    "leadVocals": "McCartney",
+    "trackLength": "1:49",
+    "album": "Beatles for Sale",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Mr. Moonlight (Roy Lee Johnson)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:38",
+    "album": "Beatles for Sale",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Kansas City/Hey, Hey, Hey, Hey (Jerry Leiber and Mike Stoller/Richard Penniman)",
+    "leadVocals": "McCartney",
+    "trackLength": "2:38",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Eight Days a Week",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:43",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Words of Love (Buddy Holly)",
+    "leadVocals": "Lennon and McCartney",
+    "trackLength": "2:04",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Honey Don't (Carl Perkins)",
+    "leadVocals": "Starr",
+    "trackLength": "2:57",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Every Little Thing",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:04",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "I Don't Want to Spoil the Party",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:33",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "What You're Doing",
+    "leadVocals": "McCartney",
+    "trackLength": "2:30",
+    "album": "Beatles for Sale",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Everybody's Trying to Be My Baby (Carl Perkins)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:26",
+    "album": "Beatles for Sale",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Help!",
+    "leadVocals": "Lennon",
+    "trackLength": "2:18",
+    "album": "Help!",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "The Night Before",
+    "leadVocals": "McCartney",
+    "trackLength": "2:34",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "You've Got to Hide Your Love Away",
+    "leadVocals": "Lennon",
+    "trackLength": "2:09",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "I Need You (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:28",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Another Girl",
+    "leadVocals": "McCartney",
+    "trackLength": "2:05",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "You're Going to Lose That Girl",
+    "leadVocals": "Lennon",
+    "trackLength": "2:18",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Ticket to Ride",
+    "leadVocals": "Lennon",
+    "trackLength": "3:09",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Act Naturally (Johnny Russell, Voni Morrison)",
+    "leadVocals": "Starr",
+    "trackLength": "2:30",
+    "album": "Help!",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "It's Only Love",
+    "leadVocals": "Lennon",
+    "trackLength": "1:56",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "You Like Me Too Much (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:36",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Tell Me What You See",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:37",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "I've Just Seen a Face",
+    "leadVocals": "McCartney",
+    "trackLength": "2:05",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Yesterday",
+    "leadVocals": "McCartney",
+    "trackLength": "2:05",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Dizzy Miss Lizzy (Larry Williams)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:54",
+    "album": "Help!",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Drive My Car",
+    "leadVocals": "McCartney with Lennon",
+    "trackLength": "2:25",
+    "album": "Rubber Soul",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Norwegian Wood (This Bird Has Flown)",
+    "leadVocals": "Lennon",
+    "trackLength": "2:01",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "You Won't See Me",
+    "leadVocals": "McCartney",
+    "trackLength": "3:18",
+    "album": "Rubber Soul",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Nowhere Man",
+    "leadVocals": "Lennon",
+    "trackLength": "2:40",
+    "album": "Rubber Soul",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Think for Yourself (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:16",
+    "album": "Rubber Soul",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "The Word",
+    "leadVocals": "Lennon",
+    "trackLength": "2:41",
+    "album": "Rubber Soul",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Michelle",
+    "leadVocals": "McCartney",
+    "trackLength": "2:40",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "What Goes On (Lennon–McCartney–Richard Starkey)",
+    "leadVocals": "Starr",
+    "trackLength": "2:47",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Girl",
+    "leadVocals": "Lennon",
+    "trackLength": "2:30",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "I'm Looking Through You",
+    "leadVocals": "McCartney",
+    "trackLength": "2:23",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "In My Life",
+    "leadVocals": "Lennon",
+    "trackLength": "2:24",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Wait",
+    "leadVocals": "Lennon and McCartney",
+    "trackLength": "2:12",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "If I Needed Someone (Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:20",
+    "album": "Rubber Soul",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Run for Your Life",
+    "leadVocals": "Lennon",
+    "trackLength": "2:22",
+    "album": "Rubber Soul",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Taxman (*)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:36",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Eleanor Rigby",
+    "leadVocals": "McCartney",
+    "trackLength": "2:11",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "I'm Only Sleeping",
+    "leadVocals": "Lennon",
+    "trackLength": "2:58",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Love You To (*)",
+    "leadVocals": "Harrison",
+    "trackLength": "3:00",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Here, There and Everywhere",
+    "leadVocals": "McCartney",
+    "trackLength": "2:29",
+    "album": "Revolver",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Yellow Submarine",
+    "leadVocals": "Starr",
+    "trackLength": "2:40",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "She Said She Said",
+    "leadVocals": "Lennon",
+    "trackLength": "2:39",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Good Day Sunshine",
+    "leadVocals": "McCartney",
+    "trackLength": "2:08",
+    "album": "Revolver",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "And Your Bird Can Sing",
+    "leadVocals": "Lennon",
+    "trackLength": "2:02",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "For No One",
+    "leadVocals": "McCartney",
+    "trackLength": "2:03",
+    "album": "Revolver",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Doctor Robert",
+    "leadVocals": "Lennon",
+    "trackLength": "2:14",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "I Want to Tell You (*)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:30",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Got to Get You into My Life",
+    "leadVocals": "McCartney",
+    "trackLength": "2:31",
+    "album": "Revolver",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Tomorrow Never Knows",
+    "leadVocals": "Lennon",
+    "trackLength": "3:00",
+    "album": "Revolver",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "leadVocals": "McCartney",
+    "trackLength": "2:00",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "With a Little Help from My Friends",
+    "leadVocals": "Starr",
+    "trackLength": "2:42",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Lucy in the Sky with Diamonds",
+    "leadVocals": "Lennon",
+    "trackLength": "3:28",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Getting Better",
+    "leadVocals": "McCartney",
+    "trackLength": "2:48",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Fixing a Hole",
+    "leadVocals": "McCartney",
+    "trackLength": "2:36",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "She's Leaving Home",
+    "leadVocals": "McCartney with Lennon",
+    "trackLength": "3:35",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Being for the Benefit of Mr. Kite!",
+    "leadVocals": "Lennon",
+    "trackLength": "2:37",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Within You Without You",
+    "leadVocals": "Harrison",
+    "trackLength": "5:05",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "When I'm Sixty-Four",
+    "leadVocals": "McCartney",
+    "trackLength": "2:37",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Lovely Rita",
+    "leadVocals": "McCartney",
+    "trackLength": "2:42",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Good Morning Good Morning",
+    "leadVocals": "Lennon",
+    "trackLength": "2:42",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+    "leadVocals": "Lennon, McCartney and Harrison",
+    "trackLength": "1:18",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "A Day in the Life",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "5:38",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Magical Mystery Tour",
+    "leadVocals": "Paul McCartney with John Lennon",
+    "trackLength": "2:48",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "The Fool on the Hill",
+    "leadVocals": "Paul McCartney",
+    "trackLength": "2:59",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Flying (Harrison/Lennon/McCartney/Starkey)",
+    "leadVocals": "(Instrumental)",
+    "trackLength": "2:16",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Blue Jay Way (Harrison)",
+    "leadVocals": "George Harrison",
+    "trackLength": "3:54",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Your Mother Should Know",
+    "leadVocals": "Paul McCartney",
+    "trackLength": "2:33",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "I Am the Walrus",
+    "leadVocals": "John Lennon",
+    "trackLength": "4:35",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Hello, Goodbye",
+    "leadVocals": "Paul McCartney",
+    "trackLength": "3:24",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Strawberry Fields Forever",
+    "leadVocals": "John Lennon",
+    "trackLength": "4:05",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Penny Lane",
+    "leadVocals": "Paul McCartney",
+    "trackLength": "3:00",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Baby, You're a Rich Man",
+    "leadVocals": "John Lennon",
+    "trackLength": "3:07",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "All You Need Is Love",
+    "leadVocals": "John Lennon",
+    "trackLength": "3:57",
+    "album": "Magical Mystery Tour",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Back in the U.S.S.R.",
+    "leadVocals": "McCartney",
+    "trackLength": "2:43",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Dear Prudence",
+    "leadVocals": "Lennon",
+    "trackLength": "3:56",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Glass Onion",
+    "leadVocals": "Lennon",
+    "trackLength": "2:18",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Ob-La-Di, Ob-La-Da",
+    "leadVocals": "McCartney",
+    "trackLength": "3:08",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Wild Honey Pie",
+    "leadVocals": "McCartney",
+    "trackLength": "0:52",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "The Continuing Story of Bungalow Bill",
+    "leadVocals": "Lennon, with Yoko Ono",
+    "trackLength": "3:14",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "While My Guitar Gently Weeps (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "4:45",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 8,
+    "songTitle": "Happiness Is a Warm Gun",
+    "leadVocals": "Lennon",
+    "trackLength": "2:47",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Martha My Dear",
+    "leadVocals": "McCartney",
+    "trackLength": "2:28",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "I'm So Tired",
+    "leadVocals": "Lennon",
+    "trackLength": "2:03",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Blackbird",
+    "leadVocals": "McCartney",
+    "trackLength": "2:18",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Piggies (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:04",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Rocky Raccoon",
+    "leadVocals": "McCartney",
+    "trackLength": "3:33",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Don't Pass Me By (Richard Starkey)",
+    "leadVocals": "Starr",
+    "trackLength": "3:51",
+    "album": "The Beatles (album)",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Why Don't We Do It in the Road?",
+    "leadVocals": "McCartney",
+    "trackLength": "1:41",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 8,
+    "songTitle": "I Will",
+    "leadVocals": "McCartney",
+    "trackLength": "1:46",
+    "album": "The Beatles (album)",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 9,
+    "songTitle": "Julia",
+    "leadVocals": "Lennon",
+    "trackLength": "2:57",
+    "album": "The Beatles (album)",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Birthday",
+    "leadVocals": "McCartney with Lennon",
+    "trackLength": "2:42",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Yer Blues",
+    "leadVocals": "Lennon",
+    "trackLength": "4:01",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Mother Nature's Son",
+    "leadVocals": "McCartney",
+    "trackLength": "2:48",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Everybody's Got Something to Hide Except Me and My Monkey",
+    "leadVocals": "Lennon",
+    "trackLength": "2:24",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Sexy Sadie",
+    "leadVocals": "Lennon",
+    "trackLength": "3:15",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Helter Skelter",
+    "leadVocals": "McCartney",
+    "trackLength": "4:30",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Long, Long, Long (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "3:08",
+    "album": "The Beatles (album)",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Revolution 1",
+    "leadVocals": "Lennon",
+    "trackLength": "4:15",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Honey Pie",
+    "leadVocals": "McCartney",
+    "trackLength": "2:41",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Savoy Truffle (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:54",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Cry Baby Cry",
+    "leadVocals": "Lennon, with McCartney",
+    "trackLength": "3:02",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Revolution 9",
+    "leadVocals": "Speaking from Lennon, Harrison, Ono and George Martin",
+    "trackLength": "8:15",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Good Night",
+    "leadVocals": "Starr",
+    "trackLength": "3:14",
+    "album": "The Beatles (album)",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Yellow Submarine",
+    "leadVocals": "Starr",
+    "trackLength": "2:39",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Only a Northern Song",
+    "leadVocals": "Harrison",
+    "trackLength": "3:24",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "All Together Now",
+    "leadVocals": "McCartney, with Lennon",
+    "trackLength": "2:11",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Hey Bulldog",
+    "leadVocals": "Lennon",
+    "trackLength": "3:11",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "It's All Too Much",
+    "leadVocals": "Harrison",
+    "trackLength": "6:25",
+    "album": "Yellow Submarine",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "All You Need Is Love",
+    "leadVocals": "Lennon",
+    "trackLength": "3:51",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Pepperland",
+    "leadVocals": "-",
+    "trackLength": "2:21",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Sea of Time",
+    "leadVocals": "-",
+    "trackLength": "3:00",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Sea of Holes",
+    "leadVocals": "-",
+    "trackLength": "2:17",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Sea of Monsters",
+    "leadVocals": "-",
+    "trackLength": "3:37",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "March of the Meanies",
+    "leadVocals": "-",
+    "trackLength": "2:22",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Pepperland Laid Waste",
+    "leadVocals": "-",
+    "trackLength": "2:17",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Yellow Submarine in Pepperland",
+    "leadVocals": "-",
+    "trackLength": "2:13",
+    "album": "Yellow Submarine",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Come Together",
+    "leadVocals": "Lennon",
+    "trackLength": "4:19",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Something (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "3:02",
+    "album": "Abbey Road",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Maxwell's Silver Hammer",
+    "leadVocals": "McCartney",
+    "trackLength": "3:27",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Oh! Darling",
+    "leadVocals": "McCartney",
+    "trackLength": "3:27",
+    "album": "Abbey Road",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Octopus's Garden (Richard Starkey)",
+    "leadVocals": "Starr",
+    "trackLength": "2:51",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "I Want You (She's So Heavy)",
+    "leadVocals": "Lennon",
+    "trackLength": "7:47",
+    "album": "Abbey Road",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Here Comes the Sun (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "3:05",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Because",
+    "leadVocals": "Lennon, McCartney and Harrison",
+    "trackLength": "2:45",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "You Never Give Me Your Money",
+    "leadVocals": "McCartney",
+    "trackLength": "4:03",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "Sun King",
+    "leadVocals": "Lennon, with McCartney and Harrison",
+    "trackLength": "2:26",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Mean Mr. Mustard",
+    "leadVocals": "Lennon",
+    "trackLength": "1:06",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Polythene Pam",
+    "leadVocals": "Lennon",
+    "trackLength": "1:13",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "She Came In Through the Bathroom Window",
+    "leadVocals": "McCartney",
+    "trackLength": "1:58",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 8,
+    "songTitle": "Golden Slumbers",
+    "leadVocals": "McCartney",
+    "trackLength": "1:31",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 9,
+    "songTitle": "Carry That Weight",
+    "leadVocals": "McCartney, with Lennon, Harrison and Starr",
+    "trackLength": "1:36",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 10,
+    "songTitle": "The End",
+    "leadVocals": "McCartney",
+    "trackLength": "2:05",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 11,
+    "songTitle": "Her Majesty",
+    "leadVocals": "McCartney",
+    "trackLength": "0:23",
+    "album": "Abbey Road",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "Two of Us",
+    "leadVocals": "McCartney with Lennon",
+    "trackLength": "3:36",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "Dig a Pony",
+    "leadVocals": "Lennon",
+    "trackLength": "3:54",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "Across the Universe",
+    "leadVocals": "Lennon",
+    "trackLength": "3:48",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "I Me Mine (George Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:26",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Dig It (Lennon, McCartney, Harrison, Richard Starkey)",
+    "leadVocals": "Lennon",
+    "trackLength": "0:50",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 6,
+    "songTitle": "Let It Be",
+    "leadVocals": "McCartney",
+    "trackLength": "4:03",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 7,
+    "songTitle": "Maggie Mae (Traditional, arr. Lennon, McCartney, Harrison, Starkey)",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "0:40",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 1,
+    "songTitle": "I've Got a Feeling",
+    "leadVocals": "McCartney and Lennon",
+    "trackLength": "3:37",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 2,
+    "songTitle": "One After 909",
+    "leadVocals": "Lennon with McCartney",
+    "trackLength": "2:54",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 3,
+    "songTitle": "The Long and Winding Road",
+    "leadVocals": "McCartney",
+    "trackLength": "3:38",
+    "album": "Let It Be",
+    "isLoveSong": false
+  },
+  {
+    "trackNumber": 4,
+    "songTitle": "For You Blue (Harrison)",
+    "leadVocals": "Harrison",
+    "trackLength": "2:32",
+    "album": "Let It Be",
+    "isLoveSong": true
+  },
+  {
+    "trackNumber": 5,
+    "songTitle": "Get Back",
+    "leadVocals": "McCartney",
+    "trackLength": "3:09",
+    "album": "Let It Be",
+    "isLoveSong": false
+  }
+]
