@@ -1,4 +1,4 @@
-import { renderAlbums } from './visualization/renderAlbums.js';
+import { renderAlbumSummary } from './visualization/renderAlbumSummary.js';
 import { HEIGHT, WIDTH, PADDING_X, PADDING_Y } from './visualization/constants.js';
 
 const init = async () => {
@@ -19,7 +19,7 @@ const init = async () => {
     .append('g')
     .attr('transform', `translate(${PADDING_X}, ${PADDING_Y})`);
 
-  renderAlbums(svg, songsGroupedByAlbum);
+  renderAlbumSummary(songsGroupedByAlbum);
 };
 
 init();

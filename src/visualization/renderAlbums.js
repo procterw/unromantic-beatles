@@ -1,14 +1,13 @@
 import { AVAILABLE_WIDTH, IMAGE_SIZE } from './constants.js';
 
-const sortSongs = (a,b) => {
-  return b.isLoveSong - a.isLoveSong;
-};
-
 const calculateSongWidth = song => {
   const trackLength = song.trackLength.split(':');
   const lengthSeconds = Number(trackLength[0]) * 60 + Number(trackLength[1]);
   return `${100 * (lengthSeconds / 250)}%`;
 }
+
+
+
 
 export const renderAlbums = (svg, albums) => {
   const wrapper = d3.select('#albums')

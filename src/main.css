@@ -5,7 +5,7 @@ body {
 
 
 header {
-  max-width: 800px;
+  max-width: 400px;
   margin: 50px auto;
 }
 
@@ -16,13 +16,43 @@ header h1 {
 
 header p {
   font-size: 14px;
-  max-width: 400px;
   /* font-weight: 300; */
 }
 
 
 
 
+#album-summary {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#album-summary h2 {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+#album-summary svg {
+  background: #dfe6e9;
+}
+
+#album-summary rect {
+  fill: #ff7675
+}
+
+#album-summary .song {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  fill: #2d3436;
+}
+
+#album-summary .love-song {
+  fill: white;
+}
+
+
+/* 
 
 #albums {
   max-width: 100%;
@@ -45,7 +75,6 @@ header p {
   width: 100%;
   border-radius: 4px;
   height: 100%;
-  /* filter: grayscale(100%) hue-rotate(90deg); */
 }
 
 
@@ -68,4 +97,4 @@ header p {
 
 .love-song {
   background: #ff7675;
-}
+} */
