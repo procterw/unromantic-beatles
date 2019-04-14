@@ -1,5 +1,4 @@
-
-const WIDTH = 400;
+const WIDTH = 380;
 const HEIGHT = 250;
 
 const getLoveSongRatio = album => {
@@ -16,7 +15,6 @@ const isAlbumMostlyLoveSongs = album => {
 }
 
 export const renderAlbumSummary = (albums) => {
-
   const yScale = d3.scaleBand()
     .domain(albums.map(d => d.key))
     .range([0, HEIGHT]);
@@ -49,15 +47,5 @@ export const renderAlbumSummary = (albums) => {
     .attr('y', 14)
     .attr('x', d => isAlbumMostlyLoveSongs(d) ? 5 : WIDTH - 5)
     .attr('class', d => isAlbumMostlyLoveSongs(d) ? 'song love-song' : 'song');
-
-    // .selectAll('rect')
-    // .data(d => splitSongs(d.values))
-    // .enter()
-    // .append('rect')
-    // .attr('y', (d, i) => i * 10)
-    // .attr('width', 20)
-    // .attr('height', 10)
-    // .attr('class', d => `song ${d.isLoveSong && 'love-song'}`);
-
 };
 
