@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   flex-flow: row wrap;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 #left {
@@ -22,16 +22,18 @@ body {
 
 header {
   width: 100%;
+  margin-bottom: 30px;
 }
 
 header h1 {
-  font-size: 18px;
-  text-transform: uppercase;
+  font-size: 28px;
+  margin-bottom: 10px;
+  /* text-transform: uppercase; */
 }
 
 header p {
   font-size: 14px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 
 
@@ -43,27 +45,22 @@ header p {
 }
 
 #album-summary h2 {
-  font-size: 14px;
-  text-transform: uppercase;
-}
-
-#album-summary svg {
-  background: #dfe6e9;
+  font-size: 18px;
 }
 
 #album-summary rect {
-  fill: #ff7675;
+  fill: #ffc4c4;
 }
 
 #album-summary .song {
-  font-size: 10px;
-  text-transform: uppercase;
-  font-weight: bold;
+  font-size: 13px;
+  /* text-transform: uppercase; */
+  /* font-weight: bold; */
   fill: #2d3436;
 }
 
 #album-summary .love-song {
-  fill: white;
+  /* fill: white; */
 }
 
 
@@ -127,49 +124,3 @@ header p {
   left: 0;
   top: 3px;
 }
-/* 
-
-#albums {
-  max-width: 100%;
-  padding: 20px;
-  margin: 20px auto;
-  column-count: 13;
-}
-
-.album-column {
-  page-break-inside: avoid;
-}
-
-
-
-.album-image {
-  position: relative;
-}
-
-.album-image img {
-  width: 100%;
-  border-radius: 4px;
-  height: 100%;
-}
-
-
-.song-list {
-  list-style: none;
-  position: relative;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.song {
-  margin: 0;
-  padding: 0;
-  height: 7px;
-  background: #b2bec3;
-  box-sizing: border-box;
-  border: 1px solid white;
-}
-
-.love-song {
-  background: #ff7675;
-} */

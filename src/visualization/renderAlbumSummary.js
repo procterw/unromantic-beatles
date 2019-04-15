@@ -1,5 +1,5 @@
 const WIDTH = 380;
-const HEIGHT = 250;
+const HEIGHT = 300;
 
 const getLoveSongRatio = album => {
   let loveSongCount = 0;
@@ -38,14 +38,15 @@ export const renderAlbumSummary = (albums) => {
   albumGroups
     .append('rect')
     .attr('width', d => xScale(getLoveSongRatio(d)))
-    .attr('height', yScale.bandwidth());
+    .attr('height', yScale.bandwidth() + 1);
 
   albumGroups
     .append('text')
-    .attr('text-anchor', d => isAlbumMostlyLoveSongs(d) ? 'start' : 'end')
+    // .attr('text-anchor', d => isAlbumMostlyLoveSongs(d) ? 'start' : 'end')
+    .attr('text-anchor', 'start')
     .text(d => d.key)
-    .attr('y', 14)
-    .attr('x', d => isAlbumMostlyLoveSongs(d) ? 5 : WIDTH - 5)
+    .attr('y', 16)
+    .attr('x', d => isAlbumMostlyLoveSongs(d) ? 5 : xScale(getLoveSongRatio(d)) + 5)
     .attr('class', d => isAlbumMostlyLoveSongs(d) ? 'song love-song' : 'song');
 };
 
