@@ -16,7 +16,7 @@ export const renderAlbumDetails = (albums) => {
     .attr('class', 'album-meta');
 
   albumMeta.append('img')
-    .attr('src', d => `images/${d.imgSrc}`);
+    .attr('src', d => `src/images/${d.imgSrc}`);
 
   albumMeta.append('h2')
     .attr('class', 'album-name')
@@ -43,10 +43,5 @@ export const renderAlbumDetails = (albums) => {
   trackListItems.append('span')
     .attr('class', 'song-title')
     .text(d => d.songTitle);
-
-  
-
-  // const trackList = album.append
-
 };
 

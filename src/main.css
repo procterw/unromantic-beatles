@@ -54,13 +54,7 @@ header p {
 
 #album-summary .song {
   font-size: 13px;
-  /* text-transform: uppercase; */
-  /* font-weight: bold; */
   fill: #2d3436;
-}
-
-#album-summary .love-song {
-  /* fill: white; */
 }
 
 

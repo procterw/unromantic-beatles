@@ -42,11 +42,9 @@ export const renderAlbumSummary = (albums) => {
 
   albumGroups
     .append('text')
-    // .attr('text-anchor', d => isAlbumMostlyLoveSongs(d) ? 'start' : 'end')
     .attr('text-anchor', 'start')
     .text(d => d.key)
     .attr('y', 16)
     .attr('x', d => isAlbumMostlyLoveSongs(d) ? 5 : xScale(getLoveSongRatio(d)) + 5)
     .attr('class', d => isAlbumMostlyLoveSongs(d) ? 'song love-song' : 'song');
 };
-
